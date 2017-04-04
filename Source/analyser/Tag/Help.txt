@@ -1,0 +1,55 @@
+Atcharam (Tamil Morphological Analyser) 1.0
+
+ABOUT
+Tamil is a morphologically rich language in which most of the morphemes coordinate
+with the root words in the form of suffixes. Morphological analyzer takes a derived
+word as input and separates  its root word and associated morphemes. The function
+of each suffix is indicated . A rule based approach is used.
+
+Eg:
+ñôó¢è¬÷:
+ñôó¢ < Noun > 
+è÷¢ < Plural > 
+ä < AccCase > 
+
+WHY ATCHARAM
+A basic tool for spell checker, grammar checker, parser and  machine translation. 
+It is used for extracting the root words from inflections in Tamil Search Engine and
+Online Tamil Dictionary.
+
+FEATURES
+1.Uses a dictionary of  15,000 root words classified based on fifteen categories.
+2.It has two major modules – noun analyser and verb analyser
+3.Handles verb inflections like tense, person-number-gender, auxiliary verbs and
+clitics.
+4.Handles noun inflections like plural, case, postpositions and clitics.
+
+REQUIREMENTS
+	* J2RE 1.3 or Above
+	* Operating System: Windows/Linux
+HOW TO RUN
+	Double click the batch file "Atcharam.bat"
+
+HOW TO USE
+(See the Tooltip given for every item)
+
+1. Input the tamil text to be analysed in the textbox titled "Input Text" and Click the
+button named
+"1.1" - Current Version OR
+"1.0" - Intermediate Version OR
+"0.1" - Old Version (by Anand)
+
+2. You will get the result in the textbox titled "Output"
+
+3. You can also select the input file by clicking the "Browse" button
+
+4. The CheckBox "sort" is for Sorting the input text
+
+5. The tags(<>) in the input text will be ignored if the option "Ignore the text between
+< tags >" is selected
+
+6. You can select the tags from
+English - Expanded form
+English - Abbreviated form
+Tamil - Expanded form
+Tamil - Abbreviated form

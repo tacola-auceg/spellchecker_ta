@@ -1,0 +1,85 @@
+HELP
+Tamil SpellChecker 1.0
+
+CONTENTS
+1. Opening the file.
+2. Spell Check option.
+3. Getting the suggestion
+4. Place the suggestion in the document
+5. Leave the suggestion
+6. Add the word into ditionary
+7. Cancel the document
+
+
+1. Opening the file.
+
+	This option select the file for Spell check from the local disk. Any text file  with TAB font can spell check using this software.
+
+2. Spell Check option.
+
+	This option check the word in the document is correct or not. If a word is error means, that word is highlighted.
+
+3. Getting the suggestion
+
+To get the suggestion for the erraneous word do the following steps.
+
+ *  Place the cursor in erraneous word then click the right mouse button. 
+ *  You will get the list of suggestions for the erraneous word. 
+
+4. Place the suggestion in the document
+
+ To change the suggestion into document do the following steps.
+
+ *  Select a suggestion from the list and click the change button. 
+ *  Correct word will change in the document instead of error word.  
+
+5. Leave the suggestion
+
+	If U don't want to select the suggestion just click the button "leave it". So no changes will appear in the document.
+
+6. Add the word into ditionary
+
+	Option to add a word to the dictionary is also provided after which any occurrence of that particular word or its morphological variants will not result in a error. Select the word and click the add button to add that word into dictionary.
+
+7. Cancel the document
+
+	Using this option you can cancel the current document from the editable window.
+
+
+аох§
+ос§цҐрҐ р§ђц о§ЉоҐо§ 1.0
+
+ачҐчмиҐисҐ
+
+1. Ђи£рҐђроҐ о§шиҐи   
+2. р§ђцоҐо§ЉоҐосҐ х§ЉрҐроҐ Ђо£ҐЊ  
+3. ЁЂф£кђщ х££ҐоҐђо ™рЅофҐ  
+4. ЁЂф£кђщђт ™и£іиҐирҐрмҐм ЁхноҐо§фҐ с£шҐЅофҐ  
+5. ЁЂф£кђщђт х§мҐіх§іофҐ  
+6. х££ҐоҐђот§ђщ  №иу£о§т§фҐ Ђк£ҐоҐофҐ  
+7. ЁхноҐђо п¶иҐ∞офҐ  
+
+1. Ђи£рҐђроҐ о§шиҐи   
+ёпҐо х§ЉрҐроҐЂо£ҐЊ ачҐчђсЊоҐ оимҐЃф§ЉпҐґ р§ђцоҐо§ЉоҐосҐ ™ктҐтЂхнҐЃт Ђи£рҐђроҐ о§шиҐи аоЊи§шґ. ёпҐо ™сщҐ™р£Љђч арЂт£и§оҐґ ёЉ™с£ц§ (TAB) вњоҐґЉ ађуиҐЂи£рҐр§ђщ р§ђцоҐо§ЉоҐосҐ ™ктҐтф£сҐ.   
+
+2. р§ђцоҐо§ЉоҐосҐ х§ЉрҐроҐ Ђо£ҐЊ  
+ёпҐо х§ЉрҐроҐЂо£ҐЊ ™и£іиҐирҐрмҐм ЁхноҐо§љчҐч х££ҐоҐђо ку§т£ №фҐфґ охш£ вщҐЅ инҐір§ЃиҐи§шґ. №пҐо х££ҐоҐђо охЅ вщ§фҐ №ођщ ЇђщрҐр£и и£мҐіи§шґ.  
+
+3. ЁЂф£кђщ х££ҐоҐђо ™рЅофҐ  
+охш£щ х££ҐоҐђоиҐ∞ ЁЂф£кђщ ™рЅхошҐ∞ и¶цҐиҐи£µсҐ хц§ЇђшиђчрҐ р§щҐршҐш ЂхнҐісҐ. 
+ёмлҐ≤мҐЃт§ђщ охш£щ х££ҐоҐђо ачҐч р∞о§т§фҐ ђхоҐґ ≤мҐЃт§¬ђмт хфрҐ ™р£оҐо£ђщ №ЇиҐи ЂхнҐісҐ.   
+ёощҐ ЌфсҐ ЁЂф£кђщ х££ҐоҐђорҐ рмҐЃтђфрҐ ™ршф£сҐ.   
+
+4. ЁЂф£кђщђт ™и£іиҐирҐрмҐм ЁхноҐо§фҐ с£шҐЅофҐ  
+Ђо£ҐЊ ™ктҐо ЁЂф£кђщђт ™и£іиҐирҐрмҐм ЁхноҐо§фҐ с£шҐЅхошҐ∞ и¶цҐиҐи£µсҐ хц§Їђшт§ђщрҐ р§щҐршҐш ЂхнҐісҐ.  
+рмҐЃтт§љчҐч ЁЂф£кђщђт Ђо£Ґх§ ™ктҐґ "с£шҐЅ" вщҐш ™р£оҐо£ђщ №ЇиҐи ЂхнҐісҐ.  
+ёґ Ђо£ҐЊ™ктҐо ЁЂф£кђщ х££ҐоҐђођт ™и£іиҐирҐрмҐм ЁхноҐо§љчҐч охш£щ х££ҐоҐђо ачҐч р∞о§т§фҐ с£шҐшсҐ ™ктҐґх§ісҐ.  
+
+5. ЁЂф£кђщђт х§мҐіх§іофҐ  
+ЁЂф£кђщ х££ҐоҐђот§ђщ с£шҐш Ђођхт§фҐђф вщҐш£фҐ х§мҐі х§і  вщҐш ™р£оҐо£ђщ №ЇиҐи ЂхнҐісҐ. ёощ£фҐ ™и£іиҐирҐрмҐм ЁхноҐо§фҐ впҐо с£шҐшЇсҐ ёЉиҐи£ґ   
+
+6. х££ҐоҐђот§ђщ  №иу£о§т§фҐ Ђк£ҐоҐофҐ  
+ёпҐо х§ЉрҐроҐЂо£ҐЊ ос§цҐ х££ҐоҐђот§ђщ №иу£о§т§фҐ Ђк£ҐрҐрошҐ∞рҐ ртнҐріи§шґ. ёошҐ∞ х££ҐоҐђот§ђщ Ђо£ҐЊ ™ктҐґ™и£нҐі ≤мҐЃт§¬ђмт ёмрҐ ™р£оҐо£ђщ №ЇиҐи ЂхнҐісҐ.  
+
+7. ЁхноҐђо п¶иҐ∞офҐ  
+ёпҐо х§ЉрҐроҐЂо£Ґх§ђщ ђхоҐґ ™о£∞рҐє к£чуоҐо§љчҐч ЁхноҐо§ђщ п¶иҐиф£сҐ.
